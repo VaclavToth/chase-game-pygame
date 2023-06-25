@@ -1,5 +1,6 @@
 # chase-game-pygame
 Game I have created without writing a single line of code with ChatGPT. Name, description, basicly everything have been created by AI and I just assisted testing, resolving errors and some ideas.
+![image](https://github.com/VaclavToth/chase-game-pygame/assets/91475993/9c2d2a87-46c5-412e-a1a8-4aa92c1d02de)
 
 ### Title: Escape the Pursuit
 
