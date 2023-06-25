@@ -1,9 +1,9 @@
 # chase-game-pygame
 Game I have created without writing a single line of code with ChatGPT. Name, description, basicly everything created AI and I just assisted testing, resolving errors and some ideas.
 
-## Title: Escape the Pursuit
+### Title: Escape the Pursuit
 
-## Description:
+### Description:
 Escape the Pursuit is an intense and fast-paced chase game created by Vašek Toth, who acted as the idea maker and tester, with the assistance of an AI language model. Together, they collaborated to bring this thrilling experience to life.
 In Escape the Pursuit, you'll embark on a heart-pounding chase as you navigate through the game window, trying to outmaneuver a relentless pursuer. Your objective is to survive as long as possible by evading the chaser's pursuit. Take control of the Player character and use the WSAD keys to outsmart your opponent.
 The chaser, controlled by the computer, is determined to catch you. Stay one step ahead as the chaser relentlessly closes in, always seeking to bridge the gap. Be prepared for unexpected jumps from the chaser, which can quickly close the distance between you. Adapt your strategy on the fly to avoid being caught.
